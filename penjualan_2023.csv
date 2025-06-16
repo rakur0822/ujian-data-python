@@ -1,0 +1,7 @@
+id_transaksi,tanggal,produk,kategori,harga,jumlah,kota
+TR001,2023-01-05,Smartphone,Elektronik,3500000,5,Jakarta
+TR002,2023-01-12,Laptop,Elektronik,8500000,3,Surabaya
+TR003,2023-02-15,Kemeja,Fashion,250000,10,Bandung
+TR004,2023-01-22,Headphone,Elektronik,500000,8,Yogyakarta
+TR005,2023-01-30,Tablet,Elektronik,4200000,2,Medan
+TR006,2023-03-10,Sepatu,Fashion,400000,15,Denpasar
