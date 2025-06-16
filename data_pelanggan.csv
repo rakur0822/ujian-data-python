@@ -1,0 +1,7 @@
+id_pelanggan,nama,email,total_pembelian,tanggal_bergabung
+CUST001,Budi Santoso,budi@email.com,1250000,2023-01-15
+CUST002,Siti Rahayu,siti.email,-500000,2023/15/02
+CUST003,Andi Wijaya,andiwijaya@mail.com,780000,2023-03-22
+CUST004,Dewi Anggraeni,dewanggraeni.com,3100000,2023-04-10
+CUST005,Rudi Hermawan,rudi@bisnis.net,-120000,2023-05-01
+CUST006,Anisa Fitriani,anisa@work.io,950000,2023-06-18
